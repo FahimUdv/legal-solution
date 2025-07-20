@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+
+.hero {
+    background-image: url(../images/banner.png);
+    background-size: cover;
+    background-position: center;
+    border-radius: 8px;
+}
+
+
+.eb-garamond-hero-text {
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
